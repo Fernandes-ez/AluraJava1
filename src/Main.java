@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Filme: Top Gun");
 
         int ano = 2022;
+        System.out.println(ano);
     }
 }
